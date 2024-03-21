@@ -15,4 +15,12 @@ layout: default
 
 [Reasoning with First Order Logic](./Logic-KW-CP1-Reasoning.pdf)
 
+[Propositonal Logic Resolution Trees Examples](./cp0-trees-blackboard.pdf)
+
+[First Order Logic Resolution Trees Examples](./cp1-trees-blackboard.pdf)
+
 ### Lecture Notes
+
+[Propositonal Logic Resolution Trees](./cp0-SLDtrees.pdf)
+
+[First Order Logic Resolution Trees](./cp1-SLDtrees.pdf)
