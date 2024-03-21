@@ -9,7 +9,7 @@ layout: default
 
 ## 0. Introduction
 
-<iframe src="Intro-KW-based-AISystems.pdf#toolbar=0&navpanes=0&scrollbar=1" width="850" height="600"></iframe>
+<iframe src="Intro-KW-based-AISystems.pdf#toolbar=1&navpanes=0&scrollbar=1" width="850" height="600"></iframe>
 
 
 ## [1. Reasoning with Propositional and First Order Logic](logic/)  
